@@ -1,0 +1,9 @@
+{
+  "sections": {
+    "active_account": {
+      "type": "active_account",
+      "settings": {}
+    }
+  },
+  "order": ["active_account"]
+}

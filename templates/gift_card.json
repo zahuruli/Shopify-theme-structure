@@ -1,0 +1,9 @@
+{
+  "sections": {
+    "gift_card": {
+      "type": "gift_card",
+      "settings": {}
+    }
+  },
+  "order": ["gift_card"]
+}
